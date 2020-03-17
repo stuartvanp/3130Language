@@ -29,3 +29,9 @@ An example of this will be to follow a trending/specific twitter hashtag (The Os
 1. Figure out how to scrape tweets, or use an existing twitter scraper
 2. Figure out how to use a NLP model to create a summarizer, or use an existing summarizer implementation and tweak it to work.
 3. Adjust the scraper and summarizer to produce useful results.
+
+### Progress
+#### tweet scraping: 
+This website has alot of the functionality we would need to collect data. It seems to struggle collecting tweets based off of a query, but does seems to perform fine when scraping tweets from a specific twitter account
+
+http://tools.mercenie.com/social/tweet-scraper/?fbclid=IwAR3f_XtmUEkQ9gop4aGcPvMcxIdRqG1aV4zF_28ZVlO-eev8trN6XHNLLNA
