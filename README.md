@@ -39,7 +39,8 @@ http://tools.mercenie.com/social/tweet-scraper/?fbclid=IwAR3f_XtmUEkQ9gop4aGcPvM
 ****
 
 This repo, twitterscraper may also do the work we need done. It does not rely off of the twitter API so there is no limitations as to how many tweets can be scraped in a given time period. Stuart is currently testing its functionality. its output is generally in the form of a JSON file, which is very parsable but ideally we would not be using any Javascript in this project.
-*example of scraper output can be seen in repo front page, this was done with a search for "tom brady AND buccaneers" with tweets over 100 likes
+
+* example of scraper output can be seen in repo front page, this was done with a search for "tom brady AND buccaneers" with tweets over 100 likes
 
 ##### Things im trying to figure out right now
 * how to limit the number of tweets scraped, the -l command given by the repo doesnt seem to work
