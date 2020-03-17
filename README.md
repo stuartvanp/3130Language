@@ -35,3 +35,8 @@ An example of this will be to follow a trending/specific twitter hashtag (The Os
 This website has alot of the functionality we would need to collect data. It seems to struggle collecting tweets based off of a query, but does seems to perform fine when scraping tweets from a specific twitter account
 
 http://tools.mercenie.com/social/tweet-scraper/?fbclid=IwAR3f_XtmUEkQ9gop4aGcPvMcxIdRqG1aV4zF_28ZVlO-eev8trN6XHNLLNA
+
+
+This repo, twitterscraper may also do the work we need done. It does not rely off of the twitter API so there is no limitations as to how many tweets can be scraped in a given time period. Stuart is currently testing its functionality. its output is generally in the form of a JSON file, which is very parsable but ideally we would not be using any Javascript in this project.
+
+https://github.com/taspinar/twitterscraper
