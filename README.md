@@ -1,22 +1,31 @@
+## ENGG3130-W20 Modelling Complex Systems
+## Final Project: Twitter Summarizer
 
-What is your Project about?  
-summarizing a set of text data
+## Group:
+Scott Ackerl
+Stuart van Pinxteren
+Paige Phillips
+Sebastian McLearon
+
+
+### What is your project about?
+
+The purpose of this project is identify how to usefully summarize a set of text data using Natural Language Processing (NLP) models in Python.
+For this case, we have decided to show the use case of such a summarizer by summarizing tweets. Another interesting use case for this type of summarizer would be for reducing the complexity of terms and conditions pages.
 
 ### What is the baseline experiment?  
-feed the aglrotithm with a set of twitter data, try and get it to summarize
-follow a trending/specific twitter hashtag (oscars, ),
 
-How are you going to gauge the limitations of your model?  
-try it on more technical twitter  (more numbers, etc, )
+Feed the NLP model with a set of twitter data, and try to get it to summarize the data effectively.
 
+An example of this will be to follow a trending/specific twitter hashtag (The Oscars, Coronavirus, etc.).
 
+### How are you going to gauge the limitations of your model?  
 
-WHAT DO WE WANT TO DO
-twitter could be fun... more silly 
+- Try it on more technical tweets (more numbers, links, photos, videos, etc.)
+- See how poorly the model does without being selective about which accounts to summarize from.
 
-What questions can we answer???
-twitter summarizer /predictor
-see how far we can pusht the language processor
+### To Do
 
-1. figure out how to scrape tweets
--stuart
+1. Figure out how to scrape tweets, or use an existing twitter scraper
+2. Figure out how to use a NLP model to create a summarizer, or use an existing summarizer implementation and tweak it to work.
+3. Adjust the scraper and summarizer to produce useful results.
