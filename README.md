@@ -1,11 +1,11 @@
-## ENGG3130-W20 Modelling Complex Systems
+# ENGG3130-W20 Modelling Complex Systems
 ## Final Project: Twitter Summarizer
 
-## Group:
-Scott Ackerl
-Stuart van Pinxteren
-Paige Phillips
-Sebastian McLearon
+### Group:
+- Scott Ackerl
+- Stuart van Pinxteren
+- Paige Phillips
+- Sebastian McLearon
 
 
 ### What is your project about?
