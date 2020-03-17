@@ -42,6 +42,7 @@ This repo, twitterscraper may also do the work we need done. It does not rely of
 ##### Things im trying to figure out right now
 * how to limit the number of tweets scraped, the -l command given by the repo doesnt seem to work
 * tweet validation, there is a ton of crap on twitter, currently trying to parse by number of likes and retweets to see if content is actually worth reading
+* getting tweets that are only in enlgish, most likely done by choosing topics that have the highest relevance in north america
 
 
 
