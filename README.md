@@ -57,5 +57,6 @@ https://github.com/taspinar/twitterscraper
 ##### extractive summarization models
   http://autosummarizer.com/index.php  
 This website has a model that uses extractive summarization (i.e. works like a highliter) it pulls out the most important sentences of text, I tested it with the tom brady tweets and it worked super well! one obvious limitation of this type of model is that the text needs to have explicit statements in it which can then be used to summarize it.
-  
 
+##### abstract summarization models
+Through research it appears the BERT model of Transformers NLP can effectiely be used as a text summarizer. So that is the current focus of work at the moment
