@@ -52,3 +52,10 @@ This repo, twitterscraper may also do the work we need done. It does not rely of
 https://github.com/taspinar/twitterscraper
 
 
+
+#### summarization: 
+##### extractive summarization models
+  http://autosummarizer.com/index.php
+  this website has a model that uses extractive summarization (i.e. works like a highliter) it pulls out the most important sentences of text, I tested it with the tom brady tweets and it worked super well! one obviously limitation of this type of model is that the text needs to have explicit statements in it which can then be used to summarize it.
+  
+
