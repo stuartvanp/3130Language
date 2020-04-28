@@ -46,3 +46,6 @@ The level of brain worms to think that CERB is 'getting paid to not work' instea
 CERB provides the perfect template for a guaranteed minimum wage, something that more and more people are warming up to thanks to CERB, and that is having the Financial Post collectively lose their shit apparently.
 After weeks of confusion for vulnerable people seeking support, the province has decided to deduct CERB income from ODSP & OW recipients.
 
+### Bert Model Ouptut (CERB)
+I can’t believe people are dropping their CERB cheque’s on new phones and designer shit like you guys get $2000 and don’t know how to act?? Let's be clear, people on Permanent Disability are expected to survive on half of what CERB is monthly. The scheme lets the province make money off the backs of recipients during the pandemic. The free meals for healthcare workers is such a kind sentiment, but if the infrastructure plus capacity is there, it would be amazing for these efforts to be directed to folks who aren’t generating an income during the pandemic, with children/family to feed/look after, all on CERB. As a longtime post-secondary educator, many students often had families, bills & rent!
+
