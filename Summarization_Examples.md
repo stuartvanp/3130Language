@@ -38,4 +38,11 @@ A lot of vulnerable people are waiting to get helped such as pregnant women who 
 I received an email about a thriving business whose workers quit to go on CERB - it’s fraud, but it’s happening, and more must be done to ensure benefits go to those in need, not to those who just want to take the summer off.
 Living with Covid 19 has been incredibly difficult because the federal government has failed to deliver the CERB to eligible Canadians. Evidently they are completely uninterested in fixing the problem. Canadians deserve a government that treats us fairly, not this trainwreck.
 Foreign students cannot apply for CESB. Full stop. Like all qualifying workers, international students who earned > $5,000 over 12 months can apply for the CERB if they lost their jobs because of COVID-19. The CERB is not a student benefit.
+
 ### TextTeaser Output (CERB)
+Let's be clear, people on Permanent Disability are expected to survive on half of what CERB is monthly.
+Right-wing suggests without evidence that people won't work because of CERB.
+The level of brain worms to think that CERB is 'getting paid to not work' instead of 'receiving money to not die'.
+CERB provides the perfect template for a guaranteed minimum wage, something that more and more people are warming up to thanks to CERB, and that is having the Financial Post collectively lose their shit apparently.
+After weeks of confusion for vulnerable people seeking support, the province has decided to deduct CERB income from ODSP & OW recipients.
+
